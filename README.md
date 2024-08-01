@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Shukl</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=A25A0E488035740B484EC9CCA9A1E67B7B85CF76&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fwww.sarvika.com%2fwp-content%2fuploads%2f2021%2f03%2fBackend-Developer-Python-GIF-Dribble.gif&exph=600&expw=800&q=animated+gif+coding&simid=608050413681836383&FORM=IRPRST&ck=1AAA779ADF1C7278F78D39B6C540BE26&selectedIndex=41&itb=0](https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif)"> 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachcoder&label=Profile%20views&color=0e75b6&style=flat" alt="sachcoder" /> </p>
 
