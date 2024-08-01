@@ -1,5 +1,5 @@
- <h1 align="center">Hi 👋, I'm Sachin Shukl</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+ <h1 align="left">Hi 👋, I'm Sachin Shukl</h1>
+<h3 align="left">A passionate backend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
