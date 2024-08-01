@@ -1,7 +1,7 @@
  <h1 align="left">Hi 👋, I'm Sachin Shukl</h1>
 <h3 align="left">A passionate backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" style ="margin-top:0px;" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently learning **Angular and MicroServices**
 
